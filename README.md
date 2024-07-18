@@ -1,1 +1,1 @@
-# Face-recognition-
+# The dataset consists of photos of Chelsea players.
